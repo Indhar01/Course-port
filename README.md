@@ -12,3 +12,8 @@ you need pandas and flask imstalled in device
 app.py is used as server run the app script and go the url it gives
 
 DB setup should be mentioned in DBsetup.txt file
+
+Run the requirements.txt in command prompt
+=> python requirements.txt
+
+after run this command the requirement files are installed in our system.
