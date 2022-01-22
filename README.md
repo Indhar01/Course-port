@@ -1,19 +1,19 @@
 # COLLEGE COURSE SELECTION USING FLASK
-ask for pull request after completing
+Ask for pull request after completing
 
-create a folder name it project inside project save the pyhton file and also create two folders name it is as templates and static
+Create a folder name it project inside project save the pyhton file and also create two folders name it is as `templates and static`.
+Inside static place the *javascript file* & Inside templates place all the *HTML file*
 
-inside static place the javascript file
+You need pandas and flask installed in device.
 
-inside templates place all the HTML file
+`>>pip install Flask`
 
-you need pandas and flask imstalled in device
+`>>pip install pandas`
 
-app.py is used as server run the app script and go the url it gives
+*app.py* is used as server run the app script and go the url it gives.DB setup should be mentioned in DBsetup.txt file
 
-DB setup should be mentioned in DBsetup.txt file
+**Run the requirements.txt in command prompt**
 
-Run the requirements.txt in command prompt
-=> python requirements.txt
+`>>python requirements.txt`
 
-after run this command the requirement files are installed in our system.
+After run this command the *requirement files* are installed in our system.
