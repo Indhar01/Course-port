@@ -1,4 +1,4 @@
-# clean-edited-project-code
+# COLLEGE COURSE SELECTION USING FLASK
 ask for pull request after completing
 
 create a folder name it project inside project save the pyhton file and also create two folders name it is as templates and static
@@ -10,3 +10,5 @@ inside templates place all the HTML file
 you need pandas and flask imstalled in device
 
 app.py is used as server run the app script and go the url it gives
+
+DB setup should be mentioned in DBsetup.txt file
