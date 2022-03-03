@@ -1,4 +1,4 @@
-# **COLLEGE COURSE SELECTION USING FLASK**
+# **COLLEGE COURSE SELECTION USING FLASK WEB APP**
 Ask for pull request after completing
 
 Create a folder name it project inside project save the pyhton file and also create two folders name it is as `templates and static`.
